@@ -35,7 +35,7 @@ The sample application demonstrates the following features along with basic vide
 
 Follow the steps given below to generate API Credentials required to access Airtel IQ: 
 
-* [Create a free account on Airtel IQ.](https://cpaasportal.videoiq.airtel.in/) 
+* [Access Airtel Video IQ Portal](https://cpaasportal.videoiq.airtel.in/)
 
 * Create your Project 
 
@@ -45,7 +45,7 @@ Follow the steps given below to generate API Credentials required to access Airt
 
 * [Check your browser compatibility with Airtel IQ.](https://videoiq.airtel.in/developer/video/browser-compatibility-of-airteliq-video/) 
 
-* [Download latest copy of Web SDK (EnxRtc.js)](https://developer.videoiq.airtel.in/wp-content/uploads/EnxRtc.js.v1.9.3.zip?ver=1.9.3) and replace client/js/EnxRtc.js 
+* [Download latest copy of Web SDK (EnxRtc.js)](https://videoiq.airtel.in/wp-content/uploads/EnxRtc.js.v1.0.0.zip?ver=1.0.0) and replace client/js/EnxRtc.js 
 
 ### 1.1.3. SSL Certificate 
 
@@ -84,7 +84,7 @@ As the Airtel IQ test server has been configured for demonstration purpose only,
 
 * Host a multiparty call with less than 3 participants. 
 
-Refer to the [Demo App Server](https://demo.videoiq.airtel.in/developer/video/sample-code/#demo-app-server) for more information.   
+Refer to the [Demo App Server](https://videoiq.airtel.in/developer/video/sample-code/#demo-app-server) for more information.   
 
 Once you have successfully tested your application on the test server, you can set up your application server as explained in section 1.1.4 above. 
 
@@ -126,7 +126,7 @@ And many more such exciting features.
 
 [Read Web Toolkit](https://videoiq.airtel.in/developer/video-api/client-api/web-toolkit/) Documentation for more details.  
 
-[Download Web Toolkit](https://developer.videoiq.airtel.in/wp-content/uploads/EnxRtc.js.v1.9.3.zip?ver=1.9.3) to get the latest version of Web SDK. 
+[Download Web Toolkit](https://videoiq.airtel.in/wp-content/uploads/EnxRtc.js.v1.9.3.zip?ver=1.9.3) to get the latest version of Web SDK. 
 
  
 
@@ -134,6 +134,6 @@ And many more such exciting features.
 
 Airtel IQ provides a library of Documentations, How-to Guides, and Sample Codes to help software developers, interested in embedding RTC in their applications. 
 
-Refer to the [Complete Developer’s Guide](https://developer.videoiq.airtel.in/) for more details. 
+Refer to the [Complete Developer’s Guide](https://videoiq.airtel.in/) for more details. 
 
 You may also write to us for additional support at [support@airteliq.io](). 
